@@ -6,23 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <body>
-    <h1 align="center">Hi 👋, I'm Rohan Patankar</h1>
+    <h1 align="center">Hi 👋, I'm Divakar Bikram Singh</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohanpatankar926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanpatankar926" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/divakarsingh1592/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divakarsingh1592" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpatankar926&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpatankar926" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divakarsingh1592&label=Profile%20views&color=0e75b6&style=flat" alt="divakarsingh1592" /> </p>
 
-- 🔭 I’m currently working on **OpenCv** projects
+- 🔭 I’m currently working on **Generative AI** projects
 
 - 🌱 I’m currently learning **Data Science,Web Dev**
 
-- 👨‍💻 Look at my portfolio [https://rohanpatankar.netlify.app](https://rohanpatankar.netlify.app)
+- 👨‍💻 Look at my portfolio [https://divakarbikramsingh.netlify.app/](https://divakarbikramsingh.netlify.app/)
 
 - 💬 Ask me about **DataScience,Ml,Dl,Web dev**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xlfDxs_-gmvO3Tg3OcMm3nC46A6yY3YO/view?usp=sharing])
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1cONQ13ZEDlOc-4yHD5t4yjlGpLePCuid?usp=sharing])
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Languages and Tools:</h3>
