@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **DataScience,Ml,Dl,Web dev**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1cONQ13ZEDlOc-4yHD5t4yjlGpLePCuid?usp=sharing])
+- 📄 Know about me [https://drive.google.com/drive/folders/1TeVOCq5MHBnvFz7wpjUDMmJXpZ8ssvRr?usp=sharing])
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Languages and Tools:</h3>
